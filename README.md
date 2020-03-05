@@ -5,9 +5,11 @@
 * 【[flight_lines][3]】：全国航线分布图
 * 【[ncp.html][4]】：全国NCP数据统计图表
 * 【[runmap.html][5]】: 全国跑步城市地图
+* 【[run_route_map][6]】:跑步路线地图，基于json文件绘制
 
 [1]:https://pooobaby.github.io/train.html
 [2]:https://pooobaby.github.io/flights.html
 [3]:https://maplab.amap.com/share/mapv/7f570de5315e0c7fab601bc01a090031
 [4]:https://pooobaby.github.io/ncp.html
 [5]:https://maplab.amap.com/share/mapv/858f6e0d8d306518ed28895104cf1da8
+[6]:https://pooobaby.github.io/run_route_map.html
