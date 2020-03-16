@@ -5,7 +5,7 @@
 * 【[flight_lines][3]】：全国航线分布图
 * 【[ncp.html][4]】：全国NCP数据统计图表
 * 【[runmap.html][5]】: 全国跑步城市地图
-* 【[Tetirs.zip][6]】：俄罗斯方块小游戏，下载解压后即可执行
+* 【[Tetirs.zip][6]】：俄罗斯方块小游戏(点击右键另存为，下载解压后即可执行)
 
 [1]:https://pooobaby.github.io/train.html
 [2]:https://pooobaby.github.io/flights.html
